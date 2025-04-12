@@ -10,7 +10,6 @@ parsing-TLE
 
 ## Как запустить
 ```bash
-git clone https://github.com/tvoi-nickname/tvoi-proekt.git
-cd tvoi-proekt
-pip install -r requirements.txt
-python src/main.py
+pip install requests
+pip install PyQt5
+запустить gui_main.py
