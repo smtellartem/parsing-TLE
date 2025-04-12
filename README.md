@@ -11,6 +11,5 @@ parsing-TLE
 ## Как запустить
 ```bash
 pip install requests
-```bash
 pip install PyQt5
 запустить gui_main.py
