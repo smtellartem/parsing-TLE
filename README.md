@@ -10,6 +10,10 @@ parsing-TLE
 
 ## Как запустить
 ```bash
+#Python формат:
 pip install requests
 pip install PyQt5
 запустить gui_main.py
+
+#Exe формат:
+запустить gui_main.exe
