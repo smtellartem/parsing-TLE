@@ -13,6 +13,7 @@ parsing-TLE
 #Python формат:
 pip install requests
 pip install PyQt5
+Скачать main.py, gui_main.pu и img в одну папку
 запустить gui_main.py
 
 #Exe формат:
