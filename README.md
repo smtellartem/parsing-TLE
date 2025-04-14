@@ -17,4 +17,6 @@ pip install PyQt5
 запустить gui_main.py
 
 #Exe формат:
+Скачать exe файл с Google диска, так как Github не поддерживает файлы размером более 25 мб
+https://drive.google.com/file/d/1Yr5ItVVyjd795BFyHsoK_feAHRvXK7kM/view?usp=sharing
 запустить gui_main.exe
